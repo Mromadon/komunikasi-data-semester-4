@@ -1,0 +1,18 @@
+1. Throughput
+rumus Throughput = Jumlah data yang dikirim(byte s)/ waktu pengiriman                 (time span) x  8
+               = 4970944 / 1004.295 x 8
+               = 39,597.48082
+2. packet closspacket
+rumus packet closspacket = Jumlah pket yang dikirim - jumlah paket yang                             diterima/jumlah paket yang dikirim x 100%
+                = 9573 - 9573 / 9573 x 100 % = 0
+3.delay(latency)
+rumus delay = time 2 - time 1
+            = 0,137533 - 0
+            = 0,137533 
+
+4.jiter
+rumus jiter = delay 1 - delay 2
+            = 0,137533 - 0,004878
+            = 0,132655 
+
+
